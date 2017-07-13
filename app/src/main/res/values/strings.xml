@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DrSing</string>
+    <string name="title">Dr. Chistopher Sing</string>
+    <string name="subtitle">B. Sc., MBA, CFA, DMD</string>
+    <string name="office_one">103-5990 Fraser St.\nVancouver, BC\n(604) 325-2713</string>
+    <string name="office_two">2823-4500 Kingsway\nBurnaby, BC\n(604) 437-8714</string>
+
+</resources>
